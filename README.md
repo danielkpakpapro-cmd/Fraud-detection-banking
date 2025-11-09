@@ -1,5 +1,20 @@
 # Détection de Fraude par Carte Bancaire
 
+![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Complete-success.svg)
+![ML](https://img.shields.io/badge/ML-Scikit--learn%20|%20XGBoost-orange.svg)
+![Data Science](https://img.shields.io/badge/Data%20Science-Fraud%20Detection-red.svg)
+
+![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.2%2B-orange?logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-1.7%2B-red?logo=xgboost&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1.5%2B-150458?logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-success.svg)
+
 Implémentation complète d'un système de détection de fraude bancaire utilisant des techniques avancées de machine learning et de gestion du déséquilibre des classes.
 
 ## Contexte
