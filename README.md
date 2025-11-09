@@ -126,6 +126,37 @@ J'ai testé 4 algorithmes différents :
 | **XGBoost** | **0.7222** | **0.8367** | **0.7752** | **0.9824** | **1,566€** |
 | Isolation Forest | 0.0408 | 0.8878 | 0.0781 | 0.9366 | 27,322€ |
 
+
+## Résultats Visuels
+
+### Comparaison des Performances
+
+Les 4 modèles ont été évalués sur 7 métriques différentes :
+
+![Comparaison des Modèles](reports/figures/15_models_comparison.png)
+
+### Courbes ROC et Precision-Recall
+
+Analyse de la capacité discriminante des modèles :
+
+![Courbes ROC et PR](reports/figures/16_roc_pr_curves.png)
+
+### Matrice de Confusion - XGBoost (Meilleur Modèle)
+
+![Matrice de Confusion XGBoost](reports/figures/12_xgb_confusion_matrix.png)
+
+### Feature Importance - XGBoost
+
+Les variables les plus importantes pour la détection :
+
+![Feature Importance XGBoost](reports/figures/13_xgb_feature_importance.png)
+
+### Analyse des Coûts Business
+
+Impact économique de chaque modèle :
+
+![Analyse Coûts Business](reports/figures/17_business_cost_analysis.png)
+
 ### Analyse Business
 
 Hypothèses de coût :
